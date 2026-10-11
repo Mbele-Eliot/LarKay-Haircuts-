@@ -7,20 +7,3 @@
     { "date": "2026-10-12", "time": "14:00" }
   ]
 }
-{
-  "status": "open",
-  "until": "",
-  "message": "",
-  "slotMinutes": 60,
-  "booked": [
-    { "date": "2026-10-12", "time": "14:00" },
-    { "date": "2026-10-12", "time": "16:00" }
-  ]
-}
-{
-  "status": "open",
-  "until": "",
-  "message": "",
-  "slotMinutes": 60,
-  "booked": []
-}
